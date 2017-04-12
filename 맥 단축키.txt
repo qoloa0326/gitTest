@@ -1,7 +1,0 @@
-맥용 단축키
- 창닫기 command + w
- 크롬 주소창 바로가기 command + l
- 크롬 새탭 command + t
- 크롬 창이동 command + 1, 2, 3, 4
- 최대화 command + control + f
-    
